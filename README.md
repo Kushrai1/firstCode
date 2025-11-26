@@ -1,3 +1,3 @@
 # firstCode
 This is my first Git Repository
-Author = Kush Rai.
+Author = Kush Rai
